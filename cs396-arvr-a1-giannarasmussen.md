@@ -43,4 +43,4 @@ Apparently mindless tasks being appealing is a recent discovery. A pointless cli
  If you are on casu martzu (the maggot cheese) stink score goes up by 100, taste score goes down by 20, creature score goes up by 100, and bite score goes down by 90 every 4000.
 
 ### Your Glitch link
-DrGeebWalker
+https://cheeseclicker.glitch.me
